@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito de Compras</title>
+    <link rel="stylesheet" href="/css/carrito_style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="cart-title">Mi carrito de compras (1)</h1>
+
+        <div class="cashback">
+            <img src="/img/back arrow.png" alt="devolucion" class="return-arrow">
+            <span>Devolución gratuita hasta 30 días de recibir tu producto.</span>
+        </div>
+
+
+</body>
+</html>
